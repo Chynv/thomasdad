@@ -1,0 +1,16 @@
+body, html{
+    width: 100%;
+}
+div.dd{
+    background-color: rgb(96, 181, 221);
+    width: min-content;
+}
+div.dd > a{
+    display: none;
+}
+div.dd > p{
+    display: inline-block;
+}
+div.dd:hover > a, div.dd:hover{
+    display: inline-block;
+}
